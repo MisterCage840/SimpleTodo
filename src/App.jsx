@@ -7,7 +7,7 @@ import ClassInput from "./todo.jsx"
 function App() {
   return (
     <div className="mainContainer">
-      <ClassInput />
+      <ClassInput name="Todo List" />
     </div>
   )
 }
